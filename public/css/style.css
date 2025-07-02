@@ -1,0 +1,13 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffffff;
+    color: #111827;
+  }
+  /* Scrollbar styling for feed */
+  .feed::-webkit-scrollbar {
+    width: 8px;
+  }
+  .feed::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 4px;
+  }
